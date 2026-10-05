@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+.env
+.venv/
+# Datos de entrada: no se versionan
+data/raw/*
+!data/raw/.gitkeep
+# Archivos que genera el notebook al ejecutarse
+*.pkl
+*.sav
+ultimos_datos.csv
+Analisis_Final_Ventas_*.xlsx

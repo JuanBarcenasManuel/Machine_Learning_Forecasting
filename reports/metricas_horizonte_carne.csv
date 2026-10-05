@@ -1,0 +1,5 @@
+método,WAPE,Sesgo,RMSE
+modelo,0.0033,0.0006,388.418
+modelo_nivel,0.0464,0.0254,5605.6727
+naive,0.1159,-0.0119,17202.658
+naive_estacional,0.076,0.0241,8738.1151
